@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Ameen Abdulrasheed]
 
-### 🌱 Data Scientist | Software Developer
+### 🌱 Data Scientist | Software Developer | Data Engineer | Researcher
 
 Welcome to my GitHub profile! I am passionate about solving real-world problems with data and building software solutions. My interests span across data pipelines, data modeling, cloud data engineering, and more.
 
