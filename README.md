@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Ameen Abdulrasheed]
+# Hi there! 👋 I'm Ameen Abdulrasheed
 
 ### 🌱 Data Scientist | Software Developer | Data Engineer | Researcher
 
