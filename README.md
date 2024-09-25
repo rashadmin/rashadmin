@@ -14,6 +14,10 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 - **Bash/Shell** 🖥
 - **Git** 🌳
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=rapid_care)](https://github.com/rashadmin/rapid_care)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rashadmin)](https://github.com/rashadmin/rapid_care)
 ---
 ### 🚀 Languages I've Worked With
 
