@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 ---
 ### 🚀 Languages I've Worked With
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashadmin&hide=roff&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashadmin&hide=cython,c++,roff&theme=radical)
 
 ### 📈 GitHub Stats (2024)
 
