@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 - **Bash/Shell** 🖥
 - **Git** 🌳
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=Regression-Implementation)](https://github.com/rashadmin/Regression-Implementation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=Regression-Implementation&card_width=800)](https://github.com/rashadmin/Regression-Implementation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=ny-taxi-workflow-orchestration)](https://github.com/rashadmin/ny-taxi-workflow-orchestration)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=password_game)](https://github.com/rashadmin/password_game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=medai)](https://github.com/rashadmin/medai)
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rashadmin&show_icons=true&theme=transparent&card_width=800)
 
 ### 🔥 Total Commits & Contributions
-[![Total Contributions](https://github-readme-stats.vercel.app/api?username=rashadmin&count_private=true&card_width=800&include_all_commits=true)](https://github.com/rashadmin/)
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=rashadmin&count_private=true&include_all_commits=true)](https://github.com/rashadmin/)
 
 ---
 
