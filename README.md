@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 
 ### 📈 GitHub Stats (2024)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rashadmin&show_icons=true&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rashadmin&show_icons=true&theme=transparent&card_width=800)
 
 ### 🔥 Total Commits & Contributions
 [![Total Contributions](https://github-readme-stats.vercel.app/api?username=rashadmin&count_private=true&include_all_commits=true)](https://github.com/rashadmin/)
