@@ -15,8 +15,11 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 - **Git** 🌳
 
 ---
+### 🚀 Languages I've Worked With
 
-### 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashadmin&layout=compact&hide=html,css&theme=radical)
+
+### 📈 GitHub Stats (2024)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rashadmin&show_icons=true&theme=radical)
 
