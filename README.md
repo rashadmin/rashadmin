@@ -14,10 +14,13 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 - **Bash/Shell** 🖥
 - **Git** 🌳
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=rapid_care)](https://github.com/rashadmin/rapid_care)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=Regression-Implementation)](https://github.com/rashadmin/Regression-Implementation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=ny-taxi-workflow-orchestration)](https://github.com/rashadmin/ny-taxi-workflow-orchestration)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=password_game)](https://github.com/rashadmin/password_game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=medai)](https://github.com/rashadmin/medai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=map_app)](https://github.com/rashadmin/map_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashadmin&repo=Air-Quality-Prediction-in-Vanderbijlpark-TimeSeries-Model-)](https://github.com/rashadmin/Air-Quality-Prediction-in-Vanderbijlpark-TimeSeries-Model-)
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rashadmin)](https://github.com/rashadmin/rapid_care)
 ---
 ### 🚀 Languages I've Worked With
 
