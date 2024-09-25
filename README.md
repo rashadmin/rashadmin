@@ -17,14 +17,14 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 ---
 ### 🚀 Languages I've Worked With
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashadmin&show_owner=true&hide=cython,c++,roff&langs_count=20&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashadmin&show_owner=true&hide=cython,c++,roff&layout=compact&langs_count=10&theme=transparent)
 
 ### 📈 GitHub Stats (2024)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rashadmin&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rashadmin&show_icons=true&theme=transparent)
 
 ### 🔥 Total Commits & Contributions
-[![Total Contributions](https://github-readme-stats.vercel.app/api?username=rashadmin&count_private=true&include_all_commits=true)](https://github.com/rashadmin/)
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=rashadmin&count_private=true&include_all_commits=true&theme=transparent)](https://github.com/rashadmin/)
 
 ---
 
