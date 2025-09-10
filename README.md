@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I am passionate about solving real-world problems 
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pytech/)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
+- Email: pytech.sama@gmail.com
 
 ---
 
